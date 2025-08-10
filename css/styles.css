@@ -1,0 +1,28 @@
+body{
+    background-color: #ffa8f3;
+}
+.secondaryHeading
+{
+    color: #ff0000;
+    margin: 10px;
+
+}
+input{
+    width: 100px;
+    padding: 10px;
+    background: #fff;
+}
+button{
+    border: 10px;
+    background: #0d6efd;
+    color: #fff;
+    cursor: pointer;
+}
+@media (max-width:565px)
+{
+body{
+    background-color: #ffffff;
+    color: #000;
+    font-family: "Arial";
+}
+}
